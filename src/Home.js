@@ -33,6 +33,9 @@ const Home = () => {
               Webinar App 
             </h1>
             <p className="text-[26px] text-white  -mt-2">With ZegoCloudAPI</p>
+            <br />
+            <p className="text-[26px] text-white  -mt-2">Arekevwe Stella Eruete</p>
+            <p className="text-[26px] text-white  -mt-2">Patani community study centre Delta State</p>
           </div>
 
           {/* Enter Code */}
